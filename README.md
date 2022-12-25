@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - osTickets and Ticket Lifecycle </h1>
-This tutorial outlines the process of  creating, triaging, and solving tickets in osTicket .<br />
+This tutorial outlines the process of  creating, sorting, and solving tickets in osTicket .<br />
 
 
 <h2>Environments and Technologies Used</h2>
